@@ -1,6 +1,8 @@
 # GitHubLearningPlayground
 <!--- Please do not delete the below comment, everything else is free reign -->
-Fork this repo! Do a Pull Request! As many times as you want! Learn the ins and outs of how to contribute to GitHub! Make your mistakes here before you make them elsewhere more public! Please check out [CONTRIBUTING.md](https://github.com/Digital-Forensics-Discord-Server/GitHubLearningPlayground/blob/main/CONTRIBUTING.md) for guidance on how to contribute to this repo. `.md` is simply a Markdown file, meaning the syntax used is Markdown!
+Fork this repo! Do a Pull Request! As many times as you want! Learn the ins and outs of how to contribute to GitHub! Make your mistakes here before you make them elsewhere more public! 
+
+Please check out [CONTRIBUTING.md](https://github.com/Digital-Forensics-Discord-Server/GitHubLearningPlayground/blob/main/CONTRIBUTING.md) for guidance on how to contribute to this repo. `.md` is simply a Markdown file, meaning the syntax used is Markdown!
 <!--- Please do not delete the above comment, everything else is free reign! -->
 
 # Test
