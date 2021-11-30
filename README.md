@@ -15,5 +15,5 @@ Adding more text here so your fork falls behind. Be sure to Fetch Upstream! - Th
 
 More text being added here. - This is a separate commit from the one above.
 
-
+You can do as much or as little as you want within a commit. Organize it how you want. Whether it's a simple spelling error or 1000 lines of code or markdown or whatever, it doesn't matter. Commit as much as you want and then do a PR when you're ready to merge into this repo!
 
