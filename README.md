@@ -18,13 +18,13 @@ correct only one of the below, then do a PR! rinse and repeat
 
 please fix this spelling error
 
-please fixx this spelling error
+please fix this spelling error
 
-plz fix thiss spelling error
+plz fix this spelling error
 
-please fix this pselling error
+please fix this spelling error
 
-please fix this spelling errrr
+please fix this spelling error
 
 
 
