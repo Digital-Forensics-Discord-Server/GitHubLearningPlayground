@@ -20,7 +20,7 @@ please fix this spelling error
 
 please fix this spelling error
 
-plz fix thiss spelling error
+plz fix this spelling error
 
 please fix this pselling error
 
