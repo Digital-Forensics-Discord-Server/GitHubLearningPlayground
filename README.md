@@ -24,7 +24,7 @@ plz fix this spelling error
 
 please fix this spelling error
 
-please fix this spelling errrr
+please fix this spelling error
 
 
 
