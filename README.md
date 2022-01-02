@@ -16,15 +16,15 @@ Toy around with Markdown [here](https://docs.github.com/en/github/writing-on-git
 
 correct only one of the below, then do a PR! rinse and repeat
 
-please fix this spelling error
+please fix this speeelling error
 
-please fix this spelling error
+plases fix this spelling error
 
-plz fix this spelling error
+plz fixx this spelling error
 
-please fix this spelling error
+please fix thhis spelling error
 
-please fix this spelling error
+please fix this spelling errororor
 
 
 
@@ -40,4 +40,8 @@ You can do as much or as little as you want within a commit. Organize it how you
 
 ### Second
 Think I got the hang of it :)
+
+## Third
+
+Increment the following number by one, for each commit: 0001
 
