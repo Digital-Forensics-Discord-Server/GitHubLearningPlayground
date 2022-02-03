@@ -18,7 +18,7 @@ correct only one of the below, then do a PR! rinse and repeat
 
 please fix this speeelling error
 
-plases fix this spelling error
+please fix this spelling error - this one has been corrected 2/3/2022
 
 plz fixx this spelling error
 
@@ -26,8 +26,14 @@ please fix thhis spelling error
 
 please fix this spelling errororor
 
+test
+
+* bullet list
+* bullet list
+* blah
 
 
+### test header
 
 
 ## First?
