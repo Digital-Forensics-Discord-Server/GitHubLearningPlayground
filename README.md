@@ -12,6 +12,15 @@ Toy around with Markdown [here](https://docs.github.com/en/github/writing-on-git
 <!--- Please do not delete the above comment, everything else is free reign! -->
 
 
+# spelling errors go here
+
+hay their hao arr u dooing?
+
+eye am dooing well, than kyou
+
+(please correct these spelling errors and PR the corrections, for practice! be sure to leave new spelling errors for the next person!)
+
+# next section
 
 test
 correct only one of the below, then do a PR! rinse and repeat
@@ -26,16 +35,24 @@ please fix thhis spelling error
 
 please fix this spelling errororor
 
-test
+# let's practice bullet lists
+
+* text goes here that you want bulleted
+* go to the end of this line and hit the enter button. then, start typing text you want bulleted!
+
+## test
 
 * bullet list
 * bullet list
 * blah
 * test
 
+# let's practice numbered lists
+
+1. same deal as above, kids
+2. rinse and repeat
 
 ### test header
-
 
 ## First?
 
