@@ -19,6 +19,7 @@ hay their hao arr u dooing?
 hey there how are you doing?
 
 eye am dooing well, than kyou
+I'm doing well thanks!
 
 one more test addition
 
