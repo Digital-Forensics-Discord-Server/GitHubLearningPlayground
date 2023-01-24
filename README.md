@@ -40,6 +40,8 @@ please fix thhis spelling error
 
 please fix this spelling errororor
 
+I don't want to fix this.
+
 # let's practice bullet lists
 
 * text goes here that you want bulleted
