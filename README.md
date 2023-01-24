@@ -19,6 +19,7 @@ hay their hao arr u dooing?
 hey there how are you doing?
 
 eye am dooing well, than kyou
+I'm doing well thanks!
 
 one more test addition
 
@@ -38,6 +39,8 @@ plz fixx this spelling error
 please fix thhis spelling error
 
 please fix this spelling errororor
+
+I don't want to fix this.
 
 # let's practice bullet lists
 
