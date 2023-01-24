@@ -16,6 +16,8 @@ Toy around with Markdown [here](https://docs.github.com/en/github/writing-on-git
 
 hay their hao arr u dooing?
 
+hey there how are you doing?
+
 eye am dooing well, than kyou
 
 (please correct these spelling errors and PR the corrections, for practice! be sure to leave new spelling errors for the next person!)
