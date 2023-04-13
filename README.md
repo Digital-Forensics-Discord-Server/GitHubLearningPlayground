@@ -16,6 +16,8 @@ Toy around with Markdown [here](https://docs.github.com/en/github/writing-on-git
 
 hay their hao arr u dooing?
 
+Why can't I spelle?
+
 hey there how are you doing?
 
 eye am dooing well, than kyou
@@ -30,7 +32,7 @@ one more test addition
 test
 correct only one of the below, then do a PR! rinse and repeat
 
-please fix this speeelling error
+please fix this spelling error
 
 please fix this spelling error - this one has been corrected 2/3/2022
 
@@ -46,6 +48,9 @@ I don't want to fix this.
 
 * text goes here that you want bulleted
 * go to the end of this line and hit the enter button. then, start typing text you want bulleted!
+* bullet1
+* bullet2
+* bullet3
 
 ## test
 
@@ -59,6 +64,8 @@ I don't want to fix this.
 
 1. same deal as above, kids
 2. rinse and repeat
+3. I don't care
+4. I don't know
 
 ### test header
 
