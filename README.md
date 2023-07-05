@@ -16,7 +16,7 @@ Toy around with Markdown [here](https://docs.github.com/en/github/writing-on-git
 
 Hey there, how are you doing? Bababooey.
 
-Why can't I spelle?
+Why can't I spell?
 
 hey there how are you doing?
 
