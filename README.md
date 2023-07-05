@@ -14,9 +14,9 @@ Toy around with Markdown [here](https://docs.github.com/en/github/writing-on-git
 
 # spelling errors go here
 
-hay their hao arr u dooing?
+Hey there, how are you doing? Bababooey.
 
-Why can't I spelle?
+Why can't I spell?
 
 hey there how are you doing?
 
