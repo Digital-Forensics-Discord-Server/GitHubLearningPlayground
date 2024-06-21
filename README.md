@@ -19,6 +19,7 @@ Hey there, how are you doing? Bababooey.
 Why can't I spell?
 
 hey there how are you doing?
+i'm doing pretty good how are you!
 
 eye am dooing well, than kyou
 I'm doing well thanks!
